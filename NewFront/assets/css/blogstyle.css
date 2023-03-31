@@ -97,7 +97,7 @@ body{
 
 }
 .blog-text a:hover{
-    color: #f33c3c;
+    color: hsl(121, 67%, 46%);
     transition: all ease 0.3s;
 }
 @media(max-width-1250px){
