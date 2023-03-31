@@ -1,0 +1,43 @@
+/* General Styles */
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    font-size: 15px;
+    line-height: 1.5;
+    /* margin: 5px; */
+}
+
+header,
+footer {
+    /* background-color: #1200FF; */
+    /* color: #F0FF00; */
+    padding: 15px;
+}
+
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+
+.flex-container {
+    display: flex;
+    flex-direction: row;
+}
+
+.flex-container>div {
+    /* background-color:#009cff; */
+    width: 150px;
+    margin: 10px;
+    text-align: center;
+    line-height: 50px;
+    font-size: 15px;
+}
