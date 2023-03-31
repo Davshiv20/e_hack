@@ -1,0 +1,74 @@
+/* General Styles */
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    
+    font-size: 15px;
+    line-height: 1.5;
+    background-color:#5CDB95;
+     margin: 5px; 
+}
+.list{
+    text-align: center;
+    font-family: 'Merriweather Sans', sans-serif;
+    padding-top: 10%;
+}
+.logo1{
+    padding-left: 300px;
+    padding-top: 50px;
+}
+.plus{
+    padding-bottom: 15px;
+    size-adjust: 5px;
+}
+.money{
+    padding-bottom: 5px;
+    width:90px;
+}
+.equals{
+    padding-bottom: 15px;
+    size-adjust: 5px;
+}
+.thumbs{
+    padding-bottom: 15px;
+
+}
+.main{
+    text-align: center;
+    font-family: 'Merriweather Sans', sans-serif;
+}
+header{
+    font-family: 'Poppins', sans-serif;
+    font-size: 40px;
+    padding-right: 40rem;
+    text-align: center;
+
+}
+
+header,
+footer {
+     background-color: #05386B ; 
+     color: #EDF5E1; 
+    padding: 15px;
+}
+
+
+
+.flex-container {
+    display: flex;
+    flex-direction: row;
+}
+
+.flex-container{
+     background-color:#009cff; 
+    width: 150px;
+    margin: 10px;
+    text-align: center;
+    line-height: 50px;
+    font-size: 15px;
+}
