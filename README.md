@@ -1,3 +1,3 @@
 # e_hack
-To build a renewable energy trading platform that enables the buying and selling of renewable energy credits (RECs) between renewable energy producers and consumers. Renewable energy credits are a type of certificate that represent the generation of one megawatt-hour (MWh) of renewable energy. By buying and selling these credits, businesses and individuals can support the growth of renewable energy and offset their carbon footprint.
+To establish a platform for trading renewable energy that allows producers and consumers of renewable energy to purchase and sell renewable energy credits (RECs). One megawatt-hour (MWh) of green energy is represented by a certificate known as a renewable energy credit. Businesses and people can help the development of renewable energy sources and reduce their carbon footprint by purchasing and selling these credits.
 
